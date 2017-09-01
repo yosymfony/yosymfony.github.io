@@ -1,0 +1,22 @@
+ErrorDocument 404 /404.html
+
+redirect 301 /feed http://blog.yosymfony.com/feed.xml
+redirect 301 /talking-about-the-new-features-of-spress-1-1-on-the-last-episode-of-drupodcast http://blog.yosymfony.com/talking-about-the-new-features-of-spress-1-1-on-the-latest-episode-of-drupodcast/
+redirect 301 /presentacion-de-spress-generador-de-sitios-estaticos-en-php http://blog.yosymfony.com/presentacion-de-spress-generador-de-sitios-estaticos-en-php/
+redirect 301 /ficheros-de-configuracion-en-silex http://blog.yosymfony.com/ficheros-de-configuracion-en-silex/
+redirect 301 /symfony2-o-laravel http://blog.yosymfony.com/symfony2-o-laravel/
+redirect 301 /php-5-5-rc1-y-actualizaciones-en-las-ramas-5-3-x-y-5-4-x http://blog.yosymfony.com/php-5-5-rc1-y-actualizaciones-en-las-ramas-5-3-x-y-5-4-x/
+redirect 301 /sprints-para-recopilar-las-correcciones-importantes-de-symfony2-3 http://blog.yosymfony.com/sprints-para-recopilar-las-correcciones-importantes-de-symfony2-3/
+redirect 301 /seguridad-consejos-para-evitar-el-cross-site-scripting-en-php http://blog.yosymfony.com/seguridad-consejos-para-evitar-el-cross-site-scripting-en-php/
+redirect 301 /el-symfony2-docs-hack-day-fue-todo-un-exito http://blog.yosymfony.com/el-symfony2-docs-hack-day-fue-todo-un-exito/
+redirect 301 /symfony-y-el-cambio-de-licencia-de-swift-mailer http://blog.yosymfony.com/symfony-y-el-cambio-de-licencia-de-swift-mailer/
+redirect 301 /configurar-doctrine-para-usar-sqlite-en-symfony2 http://blog.yosymfony.com/configurar-doctrine-para-usar-sqlite-en-symfony2/
+redirect 301 /symfony-live-tour-2013 http://blog.yosymfony.com/symfony-live-tour-2013/
+redirect 301 /guia-de-estilos-de-symfony2 http://blog.yosymfony.com/guia-de-estilos-de-symfony2/
+redirect 301 /son-seguras-las-dependencias-de-tu-aplicacion-symfony2 http://blog.yosymfony.com/son-seguras-las-dependencias-de-tu-aplicacion-symfony2/
+redirect 301 /el-web-profiler-de-symfony2-en-silex http://blog.yosymfony.com/el-web-profiler-de-symfony2-en-silex/
+redirect 301 /symfony2-en-el-corazon-de-otros-framework http://blog.yosymfony.com/symfony2-en-el-corazon-de-otros-framework/
+redirect 301 /las-novedades-netbeans-7-3-para-symfony-y-php http://blog.yosymfony.com/las-novedades-netbeans-7-3-para-symfony-y-php/
+redirect 301 /disponible-twig-1-12-3-actualizacion-de-seguridad http://blog.yosymfony.com/disponible-twig-1-12-3-actualizacion-de-seguridad/
+redirect 301 /symfony-case-studies-youporn http://blog.yosymfony.com/symfony-case-studies-youporn/
+redirect 301 /unit-tests-test-doubles-o-database-fixtures http://blog.yosymfony.com/unit-tests-test-doubles-o-database-fixtures/
